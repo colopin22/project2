@@ -280,7 +280,7 @@ else
 fi;
 echo -e " ${BIRed}╚═════════════════════════════════════════════════════════╝${NC}"
 echo -e " ${BIGreen}╔═════════════════════════════════════════════════════════╗${NC}"
-echo -e " ${BIMagenta}                  WELCOME TO JNSTORE VPN SCRIPT                    ${NC}"
+echo -e " ${BIRed}                 WELCOME TO JNSTORE VPN SCRIPT                    ${NC}"
 echo -e " ${BIGreen}╚═════════════════════════════════════════════════════════╝${NC}"
 echo -e " ${BIWhite}                 SSH OVPN: $ssh1  VMESS: $vma $NC"
 echo -e " ${BIWhite}              VLESS: $vla TROJAN: $tra SHADWSK: $ssa $NC"
@@ -292,7 +292,7 @@ echo -e "${BIBlack}╚═══════════════════�
 echo -e "${BIYellow}   ╔══════════════════════════════════════════════════════╗${NC}"
 echo -e "     ${BIYellow}[${BIWhite}1]${green}   SSH    " "  ${BICyan}[${BIWhite}5]${green}   SHDSCK  " " ${BICyan}[${BIWhite}9${green}]   SET REBOOT"
 echo -e "     ${BIYellow}[${BIWhite}2]${green}   VMESS  " "  ${BICyan}[${BIWhite}6]${green}   TRIAL   " " ${BICyan}[${BIWhite}10${green}]  RUNNING"
-echo -e "     ${BIYellow}[${BIWhite}3]${green}   VLESS  " "  ${BICyan}[${BIWhite}7]${green}   SETTING" " ${BICyan}[${BIWhite} 11${green}]  UPDATE SC"
+echo -e "     ${BIYellow}[${BIWhite}3]${green}   VLESS  " "  ${BICyan}[${BIWhite}7]${green}   SETTING " " ${BICyan}[${BIWhite}11${green}]  UPDATE SC"
 echo -e "     ${BIYellow}[${BIWhite}4]${green}   TROJAN " "  ${BICyan}[${BIWhite}8]${green}   BACKUP  " " ${BICyan}[${BIWhite}99${green}]  CLEAR SAMPAH"
 echo -e "${BIYellow}   ╚══════════════════════════════════════════════════════╝${NC}"
 echo -e "${BIBlack} ╔═════════════════════════════════════════════════════╗${NC}"
