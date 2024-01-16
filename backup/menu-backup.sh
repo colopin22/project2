@@ -40,7 +40,7 @@ figlet "backup" | lolcat
 backup
 echo "--------------------------------------------------------"
 echo
-echo "Terimakasih sudah menggunakan layanan script CLOUDVPN"
+echo "Auto Script Premium"
 echo
 echo "--------------------------------------------------------"
 fi
