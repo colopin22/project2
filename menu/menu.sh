@@ -279,6 +279,9 @@ else
     datediff "$Exp" "$DATE"
 fi;
 echo -e " ${BIRed}╚══════════════════════════════════════════════════════════${NC}"
+echo -e " ${BIGreen}╔══════════════════════════════════════════════════════════${NC}"
+echo -e " ${BIYellow}║                     WELCOME TO JNSTORE VPN SCRIPT                    ${NC}"
+echo -e " ${BIGreen}╚══════════════════════════════════════════════════════════${NC}"
 echo -e " ${BIWhite}                 SSH OVPN: $ssh1  VMESS: $vma $NC"
 echo -e " ${BIWhite}              VLESS: $vla TROJAN: $tra SHADWSK: $ssa $NC"
 echo -e "${BIBlack}╔═════════════════════════════════════════════════════════╗${NC}"
@@ -287,11 +290,10 @@ echo -e "${BIBlack}╚═══════════════════�
 #echo -e "     ${BICyan} SSH ${NC}: $ressh"" ${BICyan} NGINX ${NC}: $resngx"" ${BICyan}  XRAY ${NC}: $resv2r"" ${BICyan} TROJAN ${NC}: $resv2r"
 #echo -e "   ${BICyan}     STUNNEL4 ${NC}: $resst" "${BICyan} DROPBEAR ${NC}: $resdbr" "${BICyan} SSH-WS ${NC}: $ressshws"
 echo -e "${BIYellow}   ╔══════════════════════════════════════════════════════╗${NC}"
-echo -e "     ${BIYellow}[${BIWhite}1]${green}   SSH    " "  ${BICyan}[${BIWhite}6]${green}   SETTING  " " ${BICyan}[${BIWhite}11${green}]   SET REBOOT"
-echo -e "     ${BIYellow}[${BIWhite}2]${green}   VMESS  " "  ${BICyan}[${BIWhite}7]${green}   TRIAL    " " ${BICyan}[${BIWhite}12${green}]   SET PW VPS"
-echo -e "     ${BIYellow}[${BIWhite}3]${green}   VLESS  " "  ${BICyan}[${BIWhite}8]${green}   BACKUP   " " ${BICyan}[${BIWhite}13${green}]   UPDATE SC "
-echo -e "     ${BIYellow}[${BIWhite}4]${green}   TROJAN " "  ${BICyan}[${BIWhite}9]${green}   ADD-HOST " " ${BICyan}[${BIWhite}99${green}]   CLEAR SAMPAH"
-echo -e "     ${BIYellow}[${BIWhite}5]${green}   SHDSCK " "  ${BICyan}[${BIWhite}10]${green}  RUNNING"
+echo -e "     ${BIYellow}[${BIWhite}1]${green}   SSH    " "  ${BICyan}[${BIWhite}5]${green}   SHDSCK  " " ${BICyan}[${BIWhite}9${green}]   SET REBOOT"
+echo -e "     ${BIYellow}[${BIWhite}2]${green}   VMESS  " "  ${BICyan}[${BIWhite}6]${green}   TRIAL    " " ${BICyan}[${BIWhite}10${green}]   RUNNING"
+echo -e "     ${BIYellow}[${BIWhite}3]${green}   VLESS  " "  ${BICyan}[${BIWhite}7]${green}   SETTING   " " ${BICyan}[${BIWhite}11${green}]   UPDATE SC"
+echo -e "     ${BIYellow}[${BIWhite}4]${green}   TROJAN " "  ${BICyan}[${BIWhite}8]${green}   BACKUP " " ${BICyan}[${BIWhite}99${green}]   CLEAR SAMPAH"
 echo -e "${BIYellow}   ╚══════════════════════════════════════════════════════╝${NC}"
 echo -e "${BIBlack} ╔═════════════════════════════════════════════════════╗${NC}"
 echo -e "${BIBlack} ║$NC ${IWhite}TODAY${NC}: ${green}$ttoday$NC ${IWhite}YESTERDAY${NC}: ${green}$tyest$NC ${IWhite}MONTHLY${NC}: ${green}$tmon$NC $NC"
@@ -305,14 +307,12 @@ case $opt in
 3) clear ; menu-vless ;;
 4) clear ; menu-trojan ;;
 5) clear ; menu-ssws ;;
-6) clear ; menu-set ;;
-7) clear ; menu-trial ;;
+6) clear ; menu-trial ;;
+7) clear ; menu-set ;;
 8) clear ; menu-backup ;;
-9) clear ; addhost ;;
+9) clear ; jam ;;
 10) clear ; running ;;
-11) clear ; jam ;;
-12) clear ; passwd ;;
-13) clear ; up ;;
+11) clear ; up ;;
 99) clear ; clearcache ;;
 6969) clear ; wget https://raw.githubusercontent.com/ALVIICELL/1/main/update.sh && chmod +x update.sh && ./update.sh && rm -f /root/update.sh ;;
 0) clear ; menu ;;
