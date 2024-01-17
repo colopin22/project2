@@ -58,7 +58,7 @@ echo -e "========================="
 echo -e "Link TrGo  		: ${link}" | tee -a /etc/log-create-user.log
 echo -e "Link TrGo (v2rayNG)	: ${link1}" | tee -a /etc/log-create-user.log
 echo -e "========================="
-echo -e "Script Mod By ALVI CELL"
+echo -e "Auto Script Premium"
 echo "" | tee -a /etc/log-create-user.log
 read -n 1 -s -r -p "Press any key to back on menu"
 
