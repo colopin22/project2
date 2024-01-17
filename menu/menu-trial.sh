@@ -129,5 +129,5 @@ case $opt in
 5) clear ; trialssws ;;
 0) clear ; menu ;;
 x) exit ;;
-*) echo "anda salah tekan cok" ; sleep 1 ; menu-trial ;;
+*) echo "anda salah tekan" ; sleep 1 ; menu-trial ;;
 esac
