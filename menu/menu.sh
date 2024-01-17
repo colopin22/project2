@@ -280,7 +280,7 @@ else
 fi;
 echo -e " ${BIRed}╚═════════════════════════════════════════════════════════╝${NC}"
 echo -e " ${BIGreen}╔═════════════════════════════════════════════════════════╗${NC}"
-echo -e " ${BIRed}                WELCOME TO JNSTORE VPN SCRIPT                    ${NC}"
+echo -e " ${BIRed}               WELCOME TO JNSTORE VPN SCRIPT                    ${NC}"
 echo -e " ${BIGreen}╚═════════════════════════════════════════════════════════╝${NC}"
 echo -e " ${BIWhite}                  SSH OVPN: $ssh1  VMESS: $vma $NC"
 echo -e " ${BIWhite}               VLESS: $vla TROJAN: $tra SHADWSK: $ssa $NC"
