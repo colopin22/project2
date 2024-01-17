@@ -109,7 +109,7 @@ done
 clear
 echo ""
 echo -e "\e[1;32m   input dependecies account $user\e[0m\n"
-echo -e "\033[0;33m .::.  Script by CLOUDVPN  .::.\e[0m\n"
+echo -e "\033[0;33m .::.  Auto Script Premium  .::.\e[0m\n"
 echo ""
 echo "   Setup Limit Quota/ip for Account"
 echo "       0 For Unlimited/No Limit"
