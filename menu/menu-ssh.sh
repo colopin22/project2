@@ -1,1 +1,145 @@
-echo 'IyEvYmluL2Jhc2gKZGF0ZUZyb21TZXJ2ZXI9JChjdXJsIC12IC0taW5zZWN1cmUgLS1zaWxlbnQgaHR0cHM6Ly9nb29nbGUuY29tLyAyPiYxIHwgZ3JlcCBEYXRlIHwgc2VkIC1lICdzLzwgRGF0ZTogLy8nKQpiaWppPWBkYXRlICsiJVktJW0tJWQiIC1kICIkZGF0ZUZyb21TZXJ2ZXIiYAojIyMjIyMjIyMjIy0gQ09MT1IgQ09ERSAtIyMjIyMjIyMjIyMjIyMKTkM9IlxlWzBtIgpSRUQ9IlwwMzNbMDszMW0iIAoKQlVSSVEgKCkgewogICAgY3VybCAtc1MgaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2NvbG9waW4yMi9pemluL21haW4vaXppbiA+IC9yb290L3RtcAogICAgZGF0YT0oIGBjYXQgL3Jvb3QvdG1wIHwgZ3JlcCAtRSAiXiMjIyAiIHwgYXdrICd7cHJpbnQgJDJ9J2AgKQogICAgZm9yIHVzZXIgaW4gIiR7ZGF0YVtAXX0iCiAgICBkbwogICAgZXhwPSggYGdyZXAgLUUgIl4jIyMgJHVzZXIiICIvcm9vdC90bXAiIHwgYXdrICd7cHJpbnQgJDN9J2AgKQogICAgZDE9KGBkYXRlIC1kICIkZXhwIiArJXNgKQogICAgZDI9KGBkYXRlIC1kICIkYmlqaSIgKyVzYCkKICAgIGV4cDI9JCgoIChkMSAtIGQyKSAvIDg2NDAwICkpCiAgICBpZiBbWyAiJGV4cDIiIC1sZSAiMCIgXV07IHRoZW4KICAgIGVjaG8gJHVzZXIgPiAvZXRjLy4kdXNlci5pbmkKICAgIGVsc2UKICAgIHJtIC1mIC9ldGMvLiR1c2VyLmluaSA+IC9kZXYvbnVsbCAyPiYxCiAgICBmaQogICAgZG9uZQogICAgcm0gLWYgL3Jvb3QvdG1wCn0KCk1ZSVA9JChjdXJsIC1zUyBpcHY0LmljYW5oYXppcC5jb20pCk5hbWU9JChjdXJsIC1zUyBodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vY29sb3BpbjIyL2l6aW4vbWFpbi9pemluIHwgZ3JlcCAkTVlJUCB8IGF3ayAne3ByaW50ICQyfScpCmVjaG8gJE5hbWUgPiAvdXNyL2xvY2FsL2V0Yy8uJE5hbWUuaW5pCkNla09uZT0kKGNhdCAvdXNyL2xvY2FsL2V0Yy8uJE5hbWUuaW5pKQoKQmxvbWFuICgpIHsKaWYgWyAtZiAiL2V0Yy8uJE5hbWUuaW5pIiBdOyB0aGVuCkNla1R3bz0kKGNhdCAvZXRjLy4kTmFtZS5pbmkpCiAgICBpZiBbICIkQ2VrT25lIiA9ICIkQ2VrVHdvIiBdOyB0aGVuCiAgICAgICAgcmVzPSJFeHBpcmVkIgogICAgZmkKZWxzZQpyZXM9IlBlcm1pc3Npb24gQWNjZXB0ZWQuLi4iCmZpCn0KClBFUk1JU1NJT04gKCkgewogICAgTVlJUD0kKGN1cmwgLXNTIGlwdjQuaWNhbmhhemlwLmNvbSkKICAgIElaSU49JChjdXJsIC1zUyBodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vY29sb3BpbjIyL2l6aW4vbWFpbi9pemluIHwgYXdrICd7cHJpbnQgJDR9JyB8IGdyZXAgJE1ZSVApCiAgICBpZiBbICIkTVlJUCIgPSAiJElaSU4iIF07IHRoZW4KICAgIEJsb21hbgogICAgZWxzZQogICAgcmVzPSJQZXJtaXNzaW9uIERlbmllZCEiCiAgICBmaQogICAgQlVSSVEKfQpyZWQ9J1xlWzE7MzFtJwpncmVlbj0nXGVbMTszMm0nCk5DPSdcZVswbScKZ3JlZW4oKSB7IGVjaG8gLWUgIlxcMDMzWzMyOzFtJHsqfVxcMDMzWzBtIjsgfQpyZWQoKSB7IGVjaG8gLWUgIlxcMDMzWzMxOzFtJHsqfVxcMDMzWzBtIjsgfQpQRVJNSVNTSU9OCmlmIFsgLWYgL2hvbWUvbmVlZHVwZGF0ZSBdOyB0aGVuCnJlZCAiWW91ciBzY3JpcHQgbmVlZCB0byB1cGRhdGUgZmlyc3QgISIKZXhpdCAwCmVsaWYgWyAiJHJlcyIgPSAiUGVybWlzc2lvbiBBY2NlcHRlZC4uLiIgXTsgdGhlbgplY2hvIC1uZQplbHNlCnJlZCAiUGVybWlzc2lvbiBEZW5pZWQhIgpleGl0IDAKZmkKQklCbGFjaz0nXDAzM1sxOzkwbScgICAgICAjIEJsYWNrCkJJUmVkPSdcMDMzWzE7OTFtJyAgICAgICAgIyBSZWQKQklHcmVlbj0nXDAzM1sxOzkybScgICAgICAjIEdyZWVuCkJJWWVsbG93PSdcMDMzWzE7OTNtJyAgICAgIyBZZWxsb3cKQklCbHVlPSdcMDMzWzE7OTRtJyAgICAgICAjIEJsdWUKQklQdXJwbGU9J1wwMzNbMTs5NW0nICAgICAjIFB1cnBsZQpCSUN5YW49J1wwMzNbMTs5Nm0nICAgICAgICMgQ3lhbgpCSVdoaXRlPSdcMDMzWzE7OTdtJyAgICAgICMgV2hpdGUKVVdoaXRlPSdcMDMzWzQ7MzdtJyAgICAgICAjIFdoaXRlCk9uX0lQdXJwbGU9J1wwMzNbMDsxMDVtJyAgIwpPbl9JUmVkPSdcMDMzWzA7MTAxbScKSUJsYWNrPSdcMDMzWzA7OTBtJyAgICAgICAjIEJsYWNrCklSZWQ9J1wwMzNbMDs5MW0nICAgICAgICAgIyBSZWQKSUdyZWVuPSdcMDMzWzA7OTJtJyAgICAgICAjIEdyZWVuCklZZWxsb3c9J1wwMzNbMDs5M20nICAgICAgIyBZZWxsb3cKSUJsdWU9J1wwMzNbMDs5NG0nICAgICAgICAjIEJsdWUKSVB1cnBsZT0nXDAzM1swOzk1bScgICAgICAjIFB1cnBsZQpJQ3lhbj0nXDAzM1swOzk2bScgICAgICAgICMgQ3lhbgpJV2hpdGU9J1wwMzNbMDs5N20nICAgICAgICMgV2hpdGUKTkM9J1xlWzBtJwpncmVlbigpIHsgZWNobyAtZSAiXFwwMzNbMzI7MW0keyp9XFwwMzNbMG0iOyB9CnJlZCgpIHsgZWNobyAtZSAiXFwwMzNbMzE7MW0keyp9XFwwMzNbMG0iOyB9CiMgLy8gRXhwb3J0aW5nIExhbmd1YWdlIHRvIFVURi04CgpleHBvcnQgTEFORz0nZW5fVVMuVVRGLTgnCmV4cG9ydCBMQU5HVUFHRT0nZW5fVVMuVVRGLTgnCgoKIyAvLyBFeHBvcnQgQ29sb3IgJiBJbmZvcm1hdGlvbgpleHBvcnQgUkVEPSdcMDMzWzA7MzFtJwpleHBvcnQgR1JFRU49J1wwMzNbMDszMm0nCmV4cG9ydCBZRUxMT1c9J1wwMzNbMDszM20nCmV4cG9ydCBCTFVFPSdcMDMzWzA7MzRtJwpleHBvcnQgUFVSUExFPSdcMDMzWzA7MzVtJwpleHBvcnQgQ1lBTj0nXDAzM1swOzM2bScKZXhwb3J0IExJR0hUPSdcMDMzWzA7MzdtJwpleHBvcnQgTkM9J1wwMzNbMG0nCgpNWUlQPSQod2dldCAtcU8tIGlwaW5mby5pby9pcCk7CmVjaG8gIkNoZWNraW5nIFZQUyIKCmNsZWFyCmVjaG8gLWUgIiR7Q1lBTn3ilZLilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZUke05DfSIKZWNobyAtZSAiJHtCSVdoaXRlfSAgICAgICAgICAgICAgICDih7EgU1NIIE1FTlUg4oeyICAgICAgICAgICAgICR7TkN9IgplY2hvIC1lICIke0NZQU594pWY4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWbJHtOQ30iCmVjaG8gLWUgIiIKZWNobyAtZSAiJHtDWUFOfeKVkuKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVlSR7TkN9IgplY2hvIC1lICIke0JJQ3lhbn1bJHtCSVdoaXRlfTAxJHtCSUN5YW59XSBDcmVhdGUgU1NIICYgT3BlblZQTiBBY2NvdW50ICAgICAgIgplY2hvIC1lICIke0JJQ3lhbn1bJHtCSVdoaXRlfTAyJHtCSUN5YW59XSBUcmlhbCBBY2NvdW50IFNTSCAmIE9wZW5WUE4gICAgICAiCmVjaG8gLWUgIiR7QklDeWFufVske0JJV2hpdGV9MDMke0JJQ3lhbn1dIFJlbmV3IFNTSCAmIE9wZW5WUE4gQWNjb3VudCAgICAgICIKZWNobyAtZSAiJHtCSUN5YW59WyR7QklXaGl0ZX0wNCR7QklDeWFufV0gRGVsZXRlIFNTSCAmIE9wZW5WUE4gQWNjb3VudCAgICAgIgplY2hvIC1lICIke0JJQ3lhbn1bJHtCSVdoaXRlfTA1JHtCSUN5YW59XSBDaGVjayBVc2VyIExvZ2luIFNTSCAmIE9wZW5WUE4gICAgICIKZWNobyAtZSAiJHtCSUN5YW59WyR7QklXaGl0ZX0wNiR7QklDeWFufV0gTGlzdCBNZW1iZXIgU1NIICYgT3BlblZQTiAgICAgIgplY2hvIC1lICIke0JJQ3lhbn1bJHtCSVdoaXRlfTA3JHtCSUN5YW59XSBEZWxldGUgVXNlciBFeHBpcmVkIFNTSCAmIE9wZW5WUE4iCmVjaG8gLWUgIiR7QklDeWFufVske0JJV2hpdGV9MDgke0JJQ3lhbn1dIFNldCB1cCBBdXRva2lsbCBTU0giCmVjaG8gLWUgIiR7QklDeWFufVske0JJV2hpdGV9MDkke0JJQ3lhbn1dIENlayBVc2VycyBXaG8gRG8gTXVsdGkgTG9naW4gU1NIIgplY2hvIC1lICIke0JJQ3lhbn1bJHtCSVdoaXRlfTEwJHtCSUN5YW59XSBsb2NrIHVzZXIgc3NoIgplY2hvIC1lICIke0JJQ3lhbn1bJHtCSVdoaXRlfTExJHtCSUN5YW59XSB1bmxvY2sgdXNlciBzc2giCmVjaG8gLWUgIiR7Q1lBTn3ilZjilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZske05DfSIKZWNobyAtZSAiICAgICAke0JJWWVsbG93fVByZXNzIHggb3IgWyBDdHJsK0MgXSDigKIgVG8tJHtCSVdoaXRlfUV4aXQke05DfSIKZWNobyAiIgpyZWFkIC1wICIgU2VsZWN0IG1lbnUgOiAgIiAgb3B0CmVjaG8gLWUgIiIKY2FzZSAkb3B0IGluCjEpIGNsZWFyIDsgdXNlcm5ldyA7IGV4aXQgOzsKMikgY2xlYXIgOyB0cmlhbCA7IGV4aXQgOzsKMykgY2xlYXIgOyByZW5ldyA7IGV4aXQgOzsKNCkgY2xlYXIgOyBoYXB1cyA7IGV4aXQgOzsKNSkgY2xlYXIgOyBjZWsgOyBleGl0IDs7CjYpIGNsZWFyIDsgbWVtYmVyIDsgZXhpdCA7Owo3KSBjbGVhciA7IGRlbGV0ZSA7IGV4aXQgOzsKOCkgY2xlYXIgOyBhdXRva2lsbCA7IGV4aXQgOzsKOSkgY2xlYXIgOyBjZWtsaW0gOyBleGl0IDs7CjEwKSBjbGVhciA7IHVzZXItbG9jayA7IGV4aXQgOzsKMTEpIGNsZWFyIDsgdXNlci11bmxvY2sgOyBleGl0IDs7CjApIGNsZWFyIDsgbWVudSA7IGV4aXQgOzsKeCkgZXhpdCA7OwoqKSBlY2hvICJBbmRhIHNhbGFoIHRla2FuICIgOyBzbGVlcCAxIDsgbWVudS1zc2ggOzsKZXNhYwo=' | base64 -d | sh
+#!/bin/bash
+dateFromServer=$(curl -v --insecure --silent https://google.com/ 2>&1 | grep Date | sed -e 's/< Date: //')
+biji=`date +"%Y-%m-%d" -d "$dateFromServer"`
+###########- COLOR CODE -##############
+NC="\e[0m"
+RED="\033[0;31m" 
+
+BURIQ () {
+    curl -sS https://raw.githubusercontent.com/colopin22/izin/main/izin > /root/tmp
+    data=( `cat /root/tmp | grep -E "^### " | awk '{print $2}'` )
+    for user in "${data[@]}"
+    do
+    exp=( `grep -E "^### $user" "/root/tmp" | awk '{print $3}'` )
+    d1=(`date -d "$exp" +%s`)
+    d2=(`date -d "$biji" +%s`)
+    exp2=$(( (d1 - d2) / 86400 ))
+    if [[ "$exp2" -le "0" ]]; then
+    echo $user > /etc/.$user.ini
+    else
+    rm -f /etc/.$user.ini > /dev/null 2>&1
+    fi
+    done
+    rm -f /root/tmp
+}
+
+MYIP=$(curl -sS ipv4.icanhazip.com)
+Name=$(curl -sS https://raw.githubusercontent.com/colopin22/izin/main/izin | grep $MYIP | awk '{print $2}')
+echo $Name > /usr/local/etc/.$Name.ini
+CekOne=$(cat /usr/local/etc/.$Name.ini)
+
+Bloman () {
+if [ -f "/etc/.$Name.ini" ]; then
+CekTwo=$(cat /etc/.$Name.ini)
+    if [ "$CekOne" = "$CekTwo" ]; then
+        res="Expired"
+    fi
+else
+res="Permission Accepted..."
+fi
+}
+
+PERMISSION () {
+    MYIP=$(curl -sS ipv4.icanhazip.com)
+    IZIN=$(curl -sS https://raw.githubusercontent.com/colopin22/izin/main/izin | awk '{print $4}' | grep $MYIP)
+    if [ "$MYIP" = "$IZIN" ]; then
+    Bloman
+    else
+    res="Permission Denied!"
+    fi
+    BURIQ
+}
+red='\e[1;31m'
+green='\e[1;32m'
+NC='\e[0m'
+green() { echo -e "\\033[32;1m${*}\\033[0m"; }
+red() { echo -e "\\033[31;1m${*}\\033[0m"; }
+PERMISSION
+if [ -f /home/needupdate ]; then
+red "Your script need to update first !"
+exit 0
+elif [ "$res" = "Permission Accepted..." ]; then
+echo -ne
+else
+red "Permission Denied!"
+exit 0
+fi
+BIBlack='\033[1;90m'      # Black
+BIRed='\033[1;91m'        # Red
+BIGreen='\033[1;92m'      # Green
+BIYellow='\033[1;93m'     # Yellow
+BIBlue='\033[1;94m'       # Blue
+BIPurple='\033[1;95m'     # Purple
+BICyan='\033[1;96m'       # Cyan
+BIWhite='\033[1;97m'      # White
+UWhite='\033[4;37m'       # White
+On_IPurple='\033[0;105m'  #
+On_IRed='\033[0;101m'
+IBlack='\033[0;90m'       # Black
+IRed='\033[0;91m'         # Red
+IGreen='\033[0;92m'       # Green
+IYellow='\033[0;93m'      # Yellow
+IBlue='\033[0;94m'        # Blue
+IPurple='\033[0;95m'      # Purple
+ICyan='\033[0;96m'        # Cyan
+IWhite='\033[0;97m'       # White
+NC='\e[0m'
+green() { echo -e "\\033[32;1m${*}\\033[0m"; }
+red() { echo -e "\\033[31;1m${*}\\033[0m"; }
+# // Exporting Language to UTF-8
+
+export LANG='en_US.UTF-8'
+export LANGUAGE='en_US.UTF-8'
+
+
+# // Export Color & Information
+export RED='\033[0;31m'
+export GREEN='\033[0;32m'
+export YELLOW='\033[0;33m'
+export BLUE='\033[0;34m'
+export PURPLE='\033[0;35m'
+export CYAN='\033[0;36m'
+export LIGHT='\033[0;37m'
+export NC='\033[0m'
+
+MYIP=$(wget -qO- ipinfo.io/ip);
+echo "Checking VPS"
+
+clear
+echo -e "${CYAN}╒════════════════════════════════════════╕${NC}"
+echo -e "${BIWhite}                ⇱ SSH MENU ⇲             ${NC}"
+echo -e "${CYAN}╘════════════════════════════════════════╛${NC}"
+echo -e ""
+echo -e "${CYAN}╒════════════════════════════════════════╕${NC}"
+echo -e "${BICyan}[${BIWhite}01${BICyan}] Create SSH & OpenVPN Account      "
+echo -e "${BICyan}[${BIWhite}02${BICyan}] Trial Account SSH & OpenVPN      "
+echo -e "${BICyan}[${BIWhite}03${BICyan}] Renew SSH & OpenVPN Account      "
+echo -e "${BICyan}[${BIWhite}04${BICyan}] Delete SSH & OpenVPN Account     "
+echo -e "${BICyan}[${BIWhite}05${BICyan}] Check User Login SSH & OpenVPN     "
+echo -e "${BICyan}[${BIWhite}06${BICyan}] List Member SSH & OpenVPN     "
+echo -e "${BICyan}[${BIWhite}07${BICyan}] Delete User Expired SSH & OpenVPN"
+echo -e "${BICyan}[${BIWhite}08${BICyan}] Set up Autokill SSH"
+echo -e "${BICyan}[${BIWhite}09${BICyan}] Cek Users Who Do Multi Login SSH"
+echo -e "${BICyan}[${BIWhite}10${BICyan}] lock user ssh"
+echo -e "${BICyan}[${BIWhite}11${BICyan}] unlock user ssh"
+echo -e "${CYAN}╘════════════════════════════════════════╛${NC}"
+echo -e "     ${BIYellow}Press x or [ Ctrl+C ] • To-${BIWhite}Exit${NC}"
+echo ""
+read -p " Select menu :  "  opt
+echo -e ""
+case $opt in
+1) clear ; usernew ; exit ;;
+2) clear ; trial ; exit ;;
+3) clear ; renew ; exit ;;
+4) clear ; hapus ; exit ;;
+5) clear ; cek ; exit ;;
+6) clear ; member ; exit ;;
+7) clear ; delete ; exit ;;
+8) clear ; autokill ; exit ;;
+9) clear ; ceklim ; exit ;;
+10) clear ; user-lock ; exit ;;
+11) clear ; user-unlock ; exit ;;
+0) clear ; menu ; exit ;;
+x) exit ;;
+*) echo "Anda salah tekan " ; sleep 1 ; menu-ssh ;;
+esac
