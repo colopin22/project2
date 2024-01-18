@@ -206,7 +206,7 @@ wget https://raw.githubusercontent.com/colopin22/project2/main/limit/limit-ipfin
 
 clear
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
-echo -e "$green          Install SWAP 04GB              $NC"
+echo -e "$green          Install SWAP 4 GB              $NC"
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 dd if=/dev/zero of=/swapfile bs=1K count=4M
 mkswap /swapfile
